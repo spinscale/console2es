@@ -1,0 +1,13 @@
+name: console2es
+version: 0.1.0
+
+authors:
+  - Alexander Reelsen <alexander@reelsen.net>
+
+targets:
+  console2es:
+    main: src/console2es.cr
+
+crystal: 0.30.1
+
+license: MIT
